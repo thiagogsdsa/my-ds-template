@@ -6,7 +6,7 @@ It contains only the folders that **every project has in common**, avoiding unne
 ---
 
 ## Project Structure
-
+```text
 project/
 │
 ├── data/                  # Data artifacts (not in git, usually in .gitignore)
@@ -24,8 +24,10 @@ project/
     ├── features/          # General transformations and feature engineering
     ├── models/            # Training and evaluation scripts
     └── utils/             # Helper functions and utilities
+```
 
 ---
+
 
 ## How to Use
 
